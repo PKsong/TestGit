@@ -15,6 +15,7 @@
 		B7EF893120A4C26700068E7B /* TestGitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7EF893020A4C26700068E7B /* TestGitTests.swift */; };
 		B7EF893C20A4C26700068E7B /* TestGitUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7EF893B20A4C26700068E7B /* TestGitUITests.swift */; };
 		B7EF894A20A4C31900068E7B /* B_lineAddFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7EF894920A4C31900068E7B /* B_lineAddFile.swift */; };
+		B7EF894E20A4C42A00068E7B /* B_second_2.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7EF894D20A4C42A00068E7B /* B_second_2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		B7EF893B20A4C26700068E7B /* TestGitUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestGitUITests.swift; sourceTree = "<group>"; };
 		B7EF893D20A4C26700068E7B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B7EF894920A4C31900068E7B /* B_lineAddFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = B_lineAddFile.swift; path = TestGit/B_lineAddFile.swift; sourceTree = "<group>"; };
+		B7EF894D20A4C42A00068E7B /* B_second_2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = B_second_2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		B7EF890F20A4C26700068E7B = {
 			isa = PBXGroup;
 			children = (
+				B7EF894D20A4C42A00068E7B /* B_second_2.swift */,
 				B7EF894920A4C31900068E7B /* B_lineAddFile.swift */,
 				B7EF891A20A4C26700068E7B /* TestGit */,
 				B7EF892F20A4C26700068E7B /* TestGitTests */,
@@ -263,6 +266,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B7EF894A20A4C31900068E7B /* B_lineAddFile.swift in Sources */,
+				B7EF894E20A4C42A00068E7B /* B_second_2.swift in Sources */,
 				B7EF891E20A4C26700068E7B /* ViewController.swift in Sources */,
 				B7EF891C20A4C26700068E7B /* AppDelegate.swift in Sources */,
 			);
