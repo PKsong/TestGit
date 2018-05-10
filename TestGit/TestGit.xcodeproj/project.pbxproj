@@ -51,11 +51,9 @@
 		B7EF893B20A4C26700068E7B /* TestGitUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestGitUITests.swift; sourceTree = "<group>"; };
 		B7EF893D20A4C26700068E7B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B7EF894920A4C31900068E7B /* B_lineAddFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = B_lineAddFile.swift; path = TestGit/B_lineAddFile.swift; sourceTree = "<group>"; };
-<<<<<<< HEAD
 		B7EF894B20A4C3D900068E7B /* B_first_2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = B_first_2.swift; sourceTree = "<group>"; };
-=======
 		B7EF894D20A4C42A00068E7B /* B_second_2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = B_second_2.swift; sourceTree = "<group>"; };
->>>>>>> B_line
+
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
