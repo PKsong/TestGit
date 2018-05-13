@@ -51,7 +51,7 @@
 		B7EF893720A4C26700068E7B /* TestGitUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestGitUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B7EF893B20A4C26700068E7B /* TestGitUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestGitUITests.swift; sourceTree = "<group>"; };
 		B7EF893D20A4C26700068E7B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		B7EF894920A4C31900068E7B /* B_lineAddFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = B_lineAddFile.swift; path = TestGit/B_lineAddFile.swift; sourceTree = "<group>"; };
+		B7EF894920A4C31900068E7B /* B_lineAddFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = B_lineAddFile.swift; sourceTree = "<group>"; };
 		B7EF894B20A4C3D900068E7B /* B_first_2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = B_first_2.swift; sourceTree = "<group>"; };
 		B7EF894D20A4C42A00068E7B /* B_second_2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = B_second_2.swift; sourceTree = "<group>"; };
 		B7F8F3D720A6508D0097E293 /* maobing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = maobing.swift; sourceTree = "<group>"; };
@@ -85,8 +85,6 @@
 		B7EF890F20A4C26700068E7B = {
 			isa = PBXGroup;
 			children = (
-				B7EF894D20A4C42A00068E7B /* B_second_2.swift */,
-				B7EF894920A4C31900068E7B /* B_lineAddFile.swift */,
 				B7EF891A20A4C26700068E7B /* TestGit */,
 				B7EF892F20A4C26700068E7B /* TestGitTests */,
 				B7EF893A20A4C26700068E7B /* TestGitUITests */,
@@ -107,6 +105,8 @@
 		B7EF891A20A4C26700068E7B /* TestGit */ = {
 			isa = PBXGroup;
 			children = (
+				B7EF894D20A4C42A00068E7B /* B_second_2.swift */,
+				B7EF894920A4C31900068E7B /* B_lineAddFile.swift */,
 				B7EF891B20A4C26700068E7B /* AppDelegate.swift */,
 				B7EF891D20A4C26700068E7B /* ViewController.swift */,
 				B7EF891F20A4C26700068E7B /* Main.storyboard */,
