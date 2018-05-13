@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		B7C906C720A82D2A0069305D /* TestICloud2.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7C906C620A82D2A0069305D /* TestICloud2.swift */; };
+		B7C906C920A82E410069305D /* TestICloud3.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7C906C820A82E410069305D /* TestICloud3.swift */; };
 		B7EF891C20A4C26700068E7B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7EF891B20A4C26700068E7B /* AppDelegate.swift */; };
 		B7EF891E20A4C26700068E7B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7EF891D20A4C26700068E7B /* ViewController.swift */; };
 		B7EF892120A4C26700068E7B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B7EF891F20A4C26700068E7B /* Main.storyboard */; };
@@ -40,6 +41,7 @@
 
 /* Begin PBXFileReference section */
 		B7C906C620A82D2A0069305D /* TestICloud2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestICloud2.swift; sourceTree = "<group>"; };
+		B7C906C820A82E410069305D /* TestICloud3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestICloud3.swift; sourceTree = "<group>"; };
 		B7EF891820A4C26700068E7B /* TestGit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestGit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B7EF891B20A4C26700068E7B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B7EF891D20A4C26700068E7B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -88,6 +90,7 @@
 			isa = PBXGroup;
 			children = (
 				B7C906C620A82D2A0069305D /* TestICloud2.swift */,
+				B7C906C820A82E410069305D /* TestICloud3.swift */,
 			);
 			path = TestICloud;
 			sourceTree = "<group>";
@@ -289,6 +292,7 @@
 				B7EF891C20A4C26700068E7B /* AppDelegate.swift in Sources */,
 				B7C906C720A82D2A0069305D /* TestICloud2.swift in Sources */,
 				B7F8F3D820A6508D0097E293 /* maobing.swift in Sources */,
+				B7C906C920A82E410069305D /* TestICloud3.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
